@@ -6,7 +6,7 @@
 - 💬 Pergunte-me sobre Docker, Java e Git que ficarei feliz em ajudar.
 - ⚡ Curiosidade: Sou faixa laranja em Judô. Sei um pouco de Violão, Flauta Doce, Clarinete e Saxofone.
 
-### 📫 Como chegar até mim:
+### Como chegar até mim:
 [<img aling="center" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jefersontorres-f/)
 
 <!-- - 👯 Estou procurando colaborar em...
