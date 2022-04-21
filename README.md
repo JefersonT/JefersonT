@@ -1,7 +1,7 @@
 # Olá! Eu sou o Jeferson Torres 👋
 ## Seja bem vindo ao meu GitHub
 - 🔭 Atualmente atuo como Engenheiro de Software na [TQI](https://www.tqi.com.br/).
-- 🌱 Estou aprendendo as tecnologias para me tornar um Full CYcle Developer.
+- 🌱 Estou aprendendo as tecnologias para me tornar um Full Cycle Developer.
 - 💬 Pergunte-me sobre Docker, Java e Git que ficarei feliz em ajudar.
 - ⚡ Curiosidade: Sou faixa laranja em Judô. Sei um pouco de Violão, Flauta Doce, Clarinete e Saxofone.
 
