@@ -6,7 +6,7 @@
 - 💬 Pergunte-me sobre Docker, Java e Git que ficarei feliz em ajudar.
 - ⚡ Curiosidade: Sou faixa laranja em Judô. Sei um pouco de Violão, Flauta Doce, Clarinete e Saxofone.
 
-## 📫 Como chegar até mim:
+### 📫 Como chegar até mim:
 [<img aling="center" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jefersontorres-f/)
 
 <!-- - 👯 Estou procurando colaborar em...
@@ -24,7 +24,7 @@
 <br/>
 
 <!-- ## Technologies I use in my day -->
-## Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia
 <div style="diplay: inline_block">
   <!-- <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> -->
   <img aling="center" alt="Java" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
