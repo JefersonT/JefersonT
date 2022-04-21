@@ -1,10 +1,10 @@
-## Olá! Sou o Jeferson Torres 👋
+## Hi there! I'm Jeferson Torres 👋
 
 <a href="https://github.com/JefersonT?tab=repositories">
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=jefersont&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/JefersonT?tab=repositories">
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersont&show_icons=true&theme=github_dark&layout=compact" />
+  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersont&show_icons=true&theme=github_dark&layout=compact&langs_count=6" />
 </a>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jefersont&show_icons=true&theme=github_dark)](https://github.com/JefersonT?tab=repositories) -->
