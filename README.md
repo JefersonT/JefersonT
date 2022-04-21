@@ -6,7 +6,6 @@
 - 💬 Pergunte-me sobre Docker  Full Cicle que ficarei feliz em ajudar.
 - ⚡ Curiosidade: Sou faixa laranja em Judô. Gosto de música e já toquei alguns instrumentos como Violão, Flauta Doce, Clarinete e saxofone
 - 📫 Como chegar até mim:
-
   <br/>[<img aling="center" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jefersontorres-f/)
 
 <!-- - 👯 Estou procurando colaborar em...
