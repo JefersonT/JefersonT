@@ -7,6 +7,15 @@
 
 ### Como chegar até mim:
 [<img aling="center" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jefersontorres-f/)
+</br><br>
+### Tecnologias que eu uso no meu dia
+<div style="diplay: inline_block">
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/ansimble-000?style=for-the-badge&logo=ansible&logoColor=white">
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/terraform-4287f5?style=for-the-badge&logo=terraform&logoColor=white">
+</div>
 
 <br>
 <a href="https://github.com/JefersonT?tab=repositories">
@@ -18,14 +27,6 @@
 
 <br/>
 
-### Tecnologias que eu uso no meu dia
-<div style="diplay: inline_block">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/ansimble-000?style=for-the-badge&logo=ansible&logoColor=white">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/terraform-4287f5?style=for-the-badge&logo=terraform&logoColor=white">
-</div>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jefersont&show_icons=true&theme=github_dark)](https://github.com/JefersonT?tab=repositories) -->
 
