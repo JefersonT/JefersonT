@@ -7,7 +7,7 @@
 
 ### Como chegar até mim:
 [<img aling="center" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jefersontorres-f/)
-</br><br>
+
 ### Tecnologias que eu uso no meu dia
 <div style="diplay: inline_block">
   <img aling="center" alt="Java" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
