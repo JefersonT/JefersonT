@@ -10,13 +10,16 @@
 
 ### Tecnologias que eu uso no meu dia
 <div style="diplay: inline_block">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/ansimble-000?style=for-the-badge&logo=ansible&logoColor=white">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/terraform-4287f5?style=for-the-badge&logo=terraform&logoColor=white">
-  <img aling="center" alt="Java" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img aling="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img aling="center" alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img aling="center" alt="Terraform" src="https://img.shields.io/badge/terraform-4287f5?style=for-the-badge&logo=terraform&logoColor=white">
+  <img aling="center" alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-fff?style=for-the-badge&logo=kubernetes">
+  <img aling="center" alt="Docker" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img aling="center" alt="Ansible" src="https://img.shields.io/badge/ansible-000?style=for-the-badge&logo=ansible&logoColor=white">
+  <img aling="center" alt="Git" src="https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=git">
 </div>
+
 
 <br>
 <a href="https://github.com/JefersonT?tab=repositories">
@@ -29,7 +32,7 @@
 <br/>
 
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jefersont&show_icons=true&theme=github_dark)](https://github.com/JefersonT?tab=repositories) -->
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jefersont&show_icons=true&theme=dark)](https://github.com/JefersonT?tab=repositories) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jefersont&repo=OdontoNetwork&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
