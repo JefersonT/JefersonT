@@ -1,4 +1,5 @@
-## Hi there! I'm Jeferson Torres 👋
+<!-- # Hi there! I'm Jeferson Torres 👋 -->
+# Olá! Eu sou o Jeferson Torres 👋
 
 <a href="https://github.com/JefersonT?tab=repositories">
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=jefersont&count_private=true&show_icons=true&theme=github_dark" />
@@ -6,6 +7,20 @@
 <a href="https://github.com/JefersonT?tab=repositories">
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersont&show_icons=true&theme=github_dark&layout=compact&langs_count=6" />
 </a>
+
+<br/>
+
+<!-- ## Technologies I use in my day -->
+## Tecnologias que eu uso no meu dia
+
+<div style="diplay: inline_block"><br/>
+  <!-- <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> -->
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/kubernetes-3970e4?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/ansimble-000?style=for-the-badge&logo=ansible&logoColor=white">
+  <img aling="center" alt="Java" src="https://img.shields.io/badge/terraform-4287f5?style=for-the-badge&logo=terraform&logoColor=white">
+</div>
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jefersont&show_icons=true&theme=github_dark)](https://github.com/JefersonT?tab=repositories) -->
 
