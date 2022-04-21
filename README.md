@@ -3,10 +3,11 @@
 ## Seja bem vindo ao meu GitHub
 - 🔭 Atualmente atuo como Engenheiro de Software na [TQI](https://www.tqi.com.br/).
 - 🌱 Estou aprendendo e me aprofundando em AWS, Terraform, Ansible e Kubernet.
-- 💬 Pergunte-me sobre Docker  Full Cicle que ficarei feliz em ajudar.
+- 💬 Pergunte-me sobre Docker, Java e Git que ficarei feliz em ajudar.
 - ⚡ Curiosidade: Sou faixa laranja em Judô. Sei um pouco de Violão, Flauta Doce, Clarinete e Saxofone.
-- 📫 Como chegar até mim:
-  <br/>[<img aling="center" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jefersontorres-f/)
+
+## 📫 Como chegar até mim:
+[<img aling="center" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jefersontorres-f/)
 
 <!-- - 👯 Estou procurando colaborar em...
 - 🤔 Estou procurando ajuda com...
@@ -20,7 +21,7 @@
   <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersont&show_icons=true&theme=github_dark&layout=compact&langs_count=6" />
 </a>
 <br/>
-
+<br/>
 <!-- ## Technologies I use in my day -->
 ## Tecnologias que eu uso no meu dia
 <div style="diplay: inline_block">
