@@ -22,6 +22,7 @@
 </a>
 <br/>
 <br/>
+
 <!-- ## Technologies I use in my day -->
 ## Tecnologias que eu uso no meu dia
 <div style="diplay: inline_block">
