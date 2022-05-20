@@ -23,7 +23,7 @@
   <img aling="center" alt="Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img aling="center" alt="Linux" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img aling="center" alt="Jenkins" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-  <img bgcolo="#FFF" aling="center" alt="Kafka" height="50" src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png" />
+  <img aling="center" alt="Kafka" height="50" src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png" />
 </div>
 <!-- <div style="diplay: inline_block">
   <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
