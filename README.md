@@ -1,15 +1,15 @@
-# Olá! Eu sou o Jeferson Torres 👋
-## Seja bem vindo ao meu GitHub
-- 🔭 Atualmente atuo como Engenheiro de Software na [TQI](https://www.tqi.com.br/).
-- 🌱 Estou aprendendo as tecnologias para me tornar um Developer.
-- 💬 Pergunte-me sobre Docker, Java e Git que ficarei feliz em ajudar.
-- ⚡ Curiosidade: Sou faixa laranja em Judô. Sei um pouco de Violão, Flauta Doce, Clarinete e Saxofone.
+#  Hi there! I'm Jeferson Torres 👋
+## Welcome to my GitHub
+- 🔭 I'm currently looking for new challenges and opportunities.
+- 🌱 I'm learning the technologies to become a reference among Developers.
+- 💬 Ask me about Docker, Java and Git and I'll be happy to help.
+- ⚡ Fun fact: I have an orange belt in Judo. I know a little about the guitar, recorder, clarinet and saxophone. And I like to play video games.
 
-### Como chegar até mim:
+### How to reach me:
 [<img aling="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jefersontorres-f/)
 [<img aling="center" alt="GitHub Corporativo" src="https://img.shields.io/badge/GitHub_Corporativo-000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/tqi-jtorres)
 
-### Tecnologias que eu uso no meu dia
+### Technologies I use in my day
 <!--Link dos Icon https://devicon.dev/-->
 
 <div style="diplay: inline_block">
