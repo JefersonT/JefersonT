@@ -37,18 +37,6 @@
   <img aling="center" alt="Git" src="https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=git">
 </div> -->
 
-
-<br>
-<a href="https://github.com/JefersonT?tab=repositories">
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=jefersont&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/JefersonT?tab=repositories">
-  <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersont&show_icons=true&theme=github_dark&layout=compact&langs_count=6" />
-</a>
-
-<br/>
-
-
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jefersont&show_icons=true&theme=dark)](https://github.com/JefersonT?tab=repositories) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jefersont&repo=OdontoNetwork&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) -->
